@@ -1,2 +1,3 @@
-# city-love
-I love my city app using ejs template
+# I-love-my-city
+
+https://module-2-i-love-my-city.herokuapp.com/
